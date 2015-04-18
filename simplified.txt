@@ -1,0 +1,3 @@
+Simplified dice svg files are parsed using scour. The command line used is in the format of:
+scour.py --enable-comment-stripping --remove-metadata --enable-viewboxing --strip-xml-prolog --enable-id-stripping --shorten-ids --create-groups -i dice-6.svg -o dice-6s.svg
+

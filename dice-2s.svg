@@ -1,0 +1,10 @@
+<!DOCTYPE svg  PUBLIC '-//W3C//DTD SVG 1.0//EN'  'http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd' [
+	<!ENTITY ns_flows "http://ns.adobe.com/Flows/1.0/">
+	<!ENTITY ns_svg "http://www.w3.org/2000/svg">
+	<!ENTITY ns_xlink "http://www.w3.org/1999/xlink">
+]>
+<svg style="enable-background:new 0 0 557 557" xmlns="http://www.w3.org/2000/svg" xml:space="preserve" height="100%" width="100%" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 557 557">
+			<circle r="57.115" stroke="#740000" cy="439.97" cx="439.97" stroke-width="5" fill="#FF724C"/> 
+			<circle r="57.115" stroke="#740000" cy="117.03" cx="117.03" stroke-width="5" fill="#FF724C"/> 
+			<path stroke-width="7" d="m553.5 485.54c0 37.38-30.58 67.96-67.96 67.96h-414.08c-37.378 0-67.96-30.58-67.96-67.96v-414.08c0-37.378 30.582-67.96 67.959-67.96h414.08c37.38 0 67.96 30.582 67.96 67.96v414.08z" stroke="#000" fill="none"/>
+	</svg>
